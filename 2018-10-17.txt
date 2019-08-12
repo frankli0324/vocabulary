@@ -1,2 +1,0 @@
-apple:苹果.
-banana:香蕉.

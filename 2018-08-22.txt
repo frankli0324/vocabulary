@@ -1,5 +1,0 @@
-﻿apple：苹果.
-banana：香蕉.
-car：汽车.
-mother：母亲.
-father：父亲.
